@@ -12,6 +12,18 @@ The story is divided into three main components:
 
 ---
 
+## **Project Structure**
+src/
+├── components/
+│   ├── Header.js
+│   ├── Content.js
+│   ├── Footer.js
+├── App.js
+├── index.js
+
+
+---
+
 ## **Steps to Run the Project**
 
 ### 1. **Clone the repository: Open terminal, run the following commands**
