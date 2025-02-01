@@ -14,12 +14,12 @@ The story is divided into three main components:
 
 ## **Project Structure**
 src/
-├── components/
-│   ├── Header.js
-│   ├── Content.js
-│   ├── Footer.js
-├── App.js
-├── index.js
+  components/
+      Header.js
+      Content.js
+      Footer.js
+  App.js
+  index.js
 
 
 ---
