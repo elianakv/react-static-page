@@ -12,18 +12,6 @@ The story is divided into three main components:
 
 ---
 
-## **Project Structure**
-src/
-├── components/
-│ ├── Header.js # Displays the title (Cinderella)
-│ ├── Content.js # Story content with 2-3 paragraphs
-│ └── Footer.js # The moral of the story
-├── App.js # Combines the components into a single page
-└── index.js # Entry point of the app
-
-
----
-
 ## **Steps to Run the Project**
 
 ### 1. **Clone the repository: Open terminal, run the following commands**
